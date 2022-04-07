@@ -1,6 +1,6 @@
 # Spring-Boot-Master-Class
 
-Following the course which can be found at: https://amigoscode.com/courses/spring-boot-master-class
+Details of the course I followed can be found at: https://amigoscode.com/courses/spring-boot-master-class
 <br>
 You can find the orignal source code for the course at: https://github.com/amigoscode/spring-boot-master-class-course
 
